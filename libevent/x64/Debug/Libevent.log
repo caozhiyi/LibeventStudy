@@ -1,0 +1,33 @@
+﻿  win32select.c
+  strlcpy.c
+  signal.c
+  log.c
+  listener.c
+  http.c
+  evutil_time.c
+d:\mycode\libeventstudy\libevent\src\evutil_time.c(537): warning C4244: “=”: 从“__int64”转换到“long”，可能丢失数据
+d:\mycode\libeventstudy\libevent\src\evutil_time.c(542): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+  evutil_rand.c
+  evutil.c
+  evthread_win32.c
+  evthread.c
+  evrpc.c
+  evmap.c
+  event_tagging.c
+  event_iocp.c
+  event.c
+  evdns.c
+  buffer_iocp.c
+  bufferevent_sock.c
+d:\mycode\libeventstudy\libevent\src\bufferevent_sock.c(267): warning C4244: “函数”: 从“intptr_t”转换到“int”，可能丢失数据
+  bufferevent_ratelim.c
+  正在生成代码...
+  正在编译...
+  bufferevent_pair.c
+  bufferevent_filter.c
+  bufferevent_async.c
+  bufferevent.c
+  buffer.c
+d:\mycode\libeventstudy\libevent\src\buffer.c(3107): warning C4244: “函数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  Libevent.vcxproj -> D:\MyCode\LibeventStudy\x64\Debug\Libevent.lib
